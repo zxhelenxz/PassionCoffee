@@ -1,0 +1,76 @@
+#skill, #experience, #project, #education{
+    background: #67B26F;  /* fallback for old browsers */
+    background: #e1f2fb;
+    padding-left: 3%;
+}
+
+/* Header */
+header{
+ background-image:url("../image/blue_sky.jpg");
+ background-size: cover;
+ height: 670px;
+ border-radius: 0%;
+ padding: 5%;
+ font-family: 'Heebo',sans-serif; 
+ 
+}
+.avatar{
+    margin-top: 10%;
+    text-align: center;
+}
+
+.row img{
+    border-radius:20%;
+    margin-bottom: 3%;
+}
+.avatar p{
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-align: left;
+    margin-left: 30%;
+}
+.name{
+    margin:15% 0%;
+    line-height: 2rem;  
+}
+.name h3,h4{
+    text-align: center;
+    font-size: 2.2rem;
+    font-family: 'permanent marker';
+}
+.name p{
+    color:#6f6f6f;
+    text-align: justify;
+    font-family: 'caveat';
+    font-size: 2rem;
+    font-weight: 600;
+}
+/* navigation bar */
+.nav{
+    background-color: #3e94f0;
+}
+.nav-link{
+    color:#fff;
+}
+.nav-link:hover{
+    color:#5edfff;
+}
+/* skill section */
+.row .progress{
+    background-color: #d4d7dd;
+}
+.row span{
+   float:left;
+   width: 30%;
+   font-size: 1rem;
+   color:#000;
+   font-weight: 600;
+}
+.row .progress-bar{
+    color: #000000;
+    background-color: #21bf73;
+    border-color: #678a74;
+}
+
+
+/* https://colorhunt.co/palette/159617 */
